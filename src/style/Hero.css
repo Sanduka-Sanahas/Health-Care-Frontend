@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+.background{
+
+
+    background-color: rgb(192, 231, 218);
+    background-size: cover;
+}
+.text{
+
+    font-family: 'Poppins';
+    font-size: 50px;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.btn-hero{
+
+     border-radius: 100px;
+     font-size: 30px;
+     text-align: center;
+     font-family: 'Poppins';
+     background-color: aquamarine;
+     margin-left: 35%;
+
+}
+
+.btn-hero:hover{
+
+    background-color: white;
+}
